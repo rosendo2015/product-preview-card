@@ -1,4 +1,4 @@
-# Desafio: Desenvolva uma página para captação de leads ou newsletter.
+# Desafio: Desenvolva uma página de visualização de detalhes de um protutos.
 
 ![preview](./git/preview-projeto-perfumaria.jpg)
 
