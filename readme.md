@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Desafio: Desenvolva uma página de visualização de detalhes de um protutos.
+=======
+# Desafio: Desenvolva uma página para visualização de detalhes de um produto para loja virtual (perfumaria).
+>>>>>>> a8ccc7be3614ee50231d67c70af9841de97b4d7c
 
 ![preview](./git/preview-projeto-perfumaria.jpg)
 
