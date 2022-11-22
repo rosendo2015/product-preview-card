@@ -157,7 +157,7 @@ main button:hover {
         height: 100%;
         display: flex;
         margin: auto;
-        padding: 20rem 3rem 0;
+        padding: 10rem 0;
     }
     
     main .description::before {
